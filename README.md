@@ -1,19 +1,19 @@
-# Salut, moi c'est Nihad 👋
+# Salut, moi c'est Nihad 
 
-🎯 **Développeuse Fullstack** en alternance chez **SNCF**
+ **Développeuse Fullstack** en alternance chez **SNCF**
 Après une riche expérience professionnelle, je suis de retour dans le développement avec une vraie passion pour les nouvelles technologies, la **cybersécurité** et l'**intelligence artificielle**.
 
 ---
 
-## 💼 En ce moment
+##  En ce moment
 
-- 🚂 **Alternance Développeuse Fullstack** chez **SNCF**
-- 🎓 **En formation chez IT Akademy** — préparation du titre **Développeur Full Stack (RNCP 38606 — Niveau 6)**
-- 🔍 Toujours en veille sur les nouvelles technos, l'IA et la cybersécurité
+-  **Alternance Développeuse Fullstack** chez **SNCF**
+-  **En formation chez IT Akademy** — préparation du titre **Développeur Full Stack (RNCP 38606 — Niveau 6)**
+-  Toujours en veille sur les nouvelles technos, l'IA et la cybersécurité
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 **Langages & Frameworks**
 
@@ -48,13 +48,13 @@ Après une riche expérience professionnelle, je suis de retour dans le dévelop
 
 ---
 
-## 🎯 Ce qui me passionne
+##  Ce qui me passionne
 
-- 🚀 **Nouvelles technologies** — toujours curieuse d'apprendre
+-  **Nouvelles technologies** — toujours curieuse d'apprendre
 
 ---
 
-## 🎓 Formations
+##  Formations
 
 | Diplôme                           | École        | Année      |
 | ---------------------------------- | ------------- | ----------- |
@@ -63,11 +63,11 @@ Après une riche expérience professionnelle, je suis de retour dans le dévelop
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 [![GitHub](https://img.shields.io/badge/-nihadchliyah-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nihadchliyah)
 [![LinkedIn](https://img.shields.io/badge/-Nihad%20Chliyah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-chliyah-71bb99128/)
 
 ---
 
-*"La meilleure façon d'apprendre, c'est de faire."* 💻
+*"La meilleure façon d'apprendre, c'est de faire."* 
